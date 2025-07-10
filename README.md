@@ -24,4 +24,4 @@ The `validation` directory contains current version of the validation artifacts.
 ## See also
 * [Transform/Stylesheet files](https://hl7.org/permalink/?CDAStyleSheet)
 * [Schema files](https://hl7.org/permalink/?CDAR2.0schema)
-* [Extention Schema files] (https://github.com/HL7/cda-core-2.0/tree/master/schema/extensions/SDTC)
+* [Extention Schema files](https://github.com/HL7/cda-core-2.0/tree/master/schema/extensions/SDTC)
