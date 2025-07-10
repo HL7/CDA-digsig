@@ -10,7 +10,7 @@ Project Insight Number: 1005
 ## Overview
 This repository contains source and supporting files related to the IG
 
-The Implementation Guide itself is available via the HL7 Standards Grid [product page] ([https://www.hl7.org/implement/standards/product_brief.cfm?product_id=375]).
+The Implementation Guide itself is available via the HL7 Standards Grid [product page](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=375)
 
 The `backups` Zip files containing source and publication files from prior versions of the IG
 
